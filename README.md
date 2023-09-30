@@ -1,2 +1,2 @@
 # blog
-My GitHub Pages Blog.
+Hiya! My name is TheDogeDev, a young aspired programmer that enjoys... ...tech!
